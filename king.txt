@@ -1,4 +1,7 @@
-king
-hello eh
-mother
-werew
+#EXTM3U
+#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="지상파",KBS 1TV
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="지상파",KBS 2TV
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/MBC_logo.png" group-title="지상파",MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
